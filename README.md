@@ -1,7 +1,7 @@
-# Curso de ArdRobótica Avanzado
+# Curso de Robótica Nivel Avanzado [211811GE133](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/211811GE133/)
 ## CEP de Granada
 
-### Abril-Mayo de 2021
+### Abril de 2021
 
 
 ### José Antonio Vacas @javacasm
@@ -41,3 +41,12 @@
 * Robot móvil
 * Instalación domótica
 * Estacion meteorológica
+
+## Sesiones
+
+Fecha|Horario
+---|---|
+07/04/2021|17:00 -	19:00
+14/04/2021|	17:00 -	19:00
+21/04/2021|	17:00 -	19:00
+28/04/2021|	17:00 -	19:00
