@@ -7,7 +7,7 @@
 ### José Antonio Vacas @javacasm
 
 
-![Licencia CC](./images/Licencia_CC.png)
+![Licencia CC](./images/CCbySQ_88x31.png)
 
 
 # Objetivos
