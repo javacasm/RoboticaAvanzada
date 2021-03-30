@@ -1,1 +1,0 @@
-## Prácticas de Programación
