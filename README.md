@@ -10,6 +10,7 @@
 ![Licencia CC](./images/CCbySQ_88x31.png)
 
 
+
 # Objetivos
 * Aprender a usar entornos de programación de código de C++
 * Saber encontrar y modificar ejemplos realizados en C++
@@ -22,14 +23,22 @@
 
 # Contenidos
 
-## Programación 
+## [1. Introducción](./1.0.Introducción%20a%20Arduino.md)
+
+## [2. Hardware de Arduino]("2.0.Hardware de Arduino.md")
+[2.1.Simuladores](./2.1.Simuladores.md)
+* [Uso de hardware compatible con Arduino](./MasQueArduino.md)
+
+## 3. Programación 
+* Programación con Bloques
+* ArduinoBlocks
 * [Programación en C++](./Programacion_C++.md) [Proceso de compilación](./procesoCompilacion.md)
 * [Ejemplos sencillos en C++](./Ejemplos.md)
-* [Uso de hardware compatible con Arduino](./MasQueArduino.md)
+
 
 ## Control de motores
 * [Manejo de motores](./motores.md)
-* [Controlando motores con ESP](https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/)
+
 * [Control vía Wifi](./MasQueArduino.md#wifi)
 
 ## Internet de las cosas
