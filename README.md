@@ -25,7 +25,7 @@
 
 ## [1. Introducción](./1.0.Introducción%20a%20Arduino.md)
 
-## [2. Hardware de Arduino]("2.0.Hardware de Arduino.md")
+## [2. Hardware de Arduino](./2.0.Hardware%20de%20Arduino.md)
 [2.1.Simuladores](./2.1.Simuladores.md)
 * [Uso de hardware compatible con Arduino](./MasQueArduino.md)
 
