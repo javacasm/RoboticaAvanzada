@@ -23,33 +23,31 @@
 
 # Contenidos
 
-## [1. Introducción](./1.0.Introducción%20a%20Arduino.md)
+## 1. Introducción a Arduino
 
-## [2. Hardware de Arduino](./2.0.Hardware%20de%20Arduino.md)
-[2.1.Simuladores](./2.1.Simuladores.md)
-* [Uso de hardware compatible con Arduino](./MasQueArduino.md)
+## 2. Hardware
+* Simuladores
 
 ## 3. Programación 
 * Programación con Bloques
-* ArduinoBlocks
-* [Programación en C++](./Programacion_C++.md) [Proceso de compilación](./procesoCompilacion.md)
-* [Ejemplos sencillos en C++](./Ejemplos.md)
+* ArduinoBlocks, Bitblock, mBlock
+* Programación en C++
 
+## 4. Sensores
 
-## Control de motores
-* [Manejo de motores](./motores.md)
+## 5.  motores
 
-* [Control vía Wifi](./MasQueArduino.md#wifi)
+## 6. Comunicaciones
+* Serie
+* Bluetooth
+* Infrarrojos
+* wifi
 
-## Internet de las cosas
-* [Introducción a Internet de las Cosas](./base_iot.md) ([IOT](./IOT.md))
-* [Plataformas online ( Thingspeak, Thinger.io, etc.)](./Plataformas.md)
-* [Manejo de tarjetas RFID](./rfids.md)
-
-## Proyectos
+## 7. Proyectos
 * Robot móvil
 * Instalación domótica
 * Estacion meteorológica
+* Robots: escornabot, mclon, Otto
 
 ## Sesiones
 
@@ -59,3 +57,4 @@ Fecha|Horario
 14/04/2021|	17:00 -	19:00
 21/04/2021|	17:00 -	19:00
 28/04/2021|	17:00 -	19:00
+
